@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors = ["quentinchampenois"]
   s.email = ["26109239+Quentinchampenois@users.noreply.github.com"]
   s.license = "AGPL-3.0"
-  s.homepage = "https://github.com/decidim/decidim-module-tests"
+  s.homepage = "https://github.com/decidim/decidim-module_tests"
   s.required_ruby_version = ">= 2.5"
 
   s.name = "decidim-tests"
